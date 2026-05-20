@@ -1,0 +1,4 @@
+project_id = "owpbswypfhoufypskhbr"
+
+[functions.ai-briefing]
+verify_jwt = false
