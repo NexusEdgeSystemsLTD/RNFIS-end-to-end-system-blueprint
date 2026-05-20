@@ -1,1 +1,0 @@
-DROP TRIGGER IF EXISTS trg_red_card_suspension ON public.match_events;
